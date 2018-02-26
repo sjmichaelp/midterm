@@ -1,0 +1,25 @@
+#demo {
+    text-align:center;
+    position:relative;
+    z-index:0;
+}
+.gear{
+    position:relative;
+    height:100px;
+    width:auto;
+}
+.button{
+    margin:auto;
+    position:relative;
+}
+
+#input{
+    left:0;
+    right:0;
+    top:70vh;
+    width:70vw;
+    bottom:0;
+    margin:auto;
+    position:absolute;
+    text-align:center;
+}
